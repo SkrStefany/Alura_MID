@@ -1,2 +1,2 @@
-# projeto1
+Pasta contendo projetos do curso Alura
  
