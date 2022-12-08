@@ -1,2 +1,3 @@
-Pasta contendo projetos do curso Alura
+Primeiro projeto do curso Alura
+
  
